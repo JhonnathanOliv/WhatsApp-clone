@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desafios/Desafio011"
+		},
+		{
+			"path": "../Desafios/Desafio010"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WhatsApp clone"
+	}
+}
